@@ -1,0 +1,63 @@
+[
+    {
+        "id": 6,
+        "category":"Tops y Remeras",
+        "products":[
+            {
+                "id": 1,
+                "title": "Top Clásico",
+                "price": "$7000",
+                "description": "Top deportivo negro basico. Comodidad asegurada para tu entrenamiento!",
+                "categories": ["Tops y Remeras"],
+                "Size": [1, 2, 3],
+                "image":"https://sporting.vtexassets.com/arquivos/ids/441838-800-800?v=637755997472830000&width=800&height=800&aspect=true",
+                "IsAnOffer": true,
+                "itHasDues": false
+            
+            },
+            {
+                "id": 2,
+                "title": "Remera Clásica",
+                "price": "$7500",
+                "description": "Remera deportiva negra basica. No puede faltar en tu armario!",
+                "categories": ["Tops y Remeras"],
+                "Size": [1, 2, 3],
+                "image":"https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw81a51bbf/products/UA1383793-001/UA1383793-001-1.JPG",
+                "IsAnOffer":true,
+                "itHasDues": false
+            
+            }
+            
+        ] 
+    },
+    {   "id": 7,
+        "category":"Calzas",
+        "products": [
+            {
+                "id": 4,
+                "title": "Calza negra",
+                "price": "$10000",
+                "description": "Calza deportiva negra basica. Para que entrenes esas piernas sin excusas!",
+                "categories": ["Calzas"],
+                "Size": [1, 2, 3],
+                "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/188/678/products/calza-termica-mujer-negra-tiro-medio-primera-piel-calza-alaska-tienda-online-yage-sportswear41-5880c7f32af32b93f016673993730109-640-0.webp",
+                "IsAnOffer":true,
+                "itHasDues": false
+            
+            },
+            {
+                "id": 5,
+                "title": "Calza negra corta",
+                "price": "$9000",
+                "description": "Calza corta negra basica. Para que entrenes esas piernas sin excusas!",
+                "categories": ["Calzas"],
+                "Size": [1, 2, 3],
+                "image":"https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw5d4c7ba8/products/ADHD6825/ADHD6825-1.JPG",
+                "IsAnOffer":true,
+                "itHasDues": false
+            
+            }
+        ]
+
+    }
+]
